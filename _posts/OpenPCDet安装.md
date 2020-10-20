@@ -1,16 +1,14 @@
-```
 ---
 layout:     post   				    # 使用的布局（不需要改）
 title:      My First Post 				# 标题 
 subtitle:   Hello World, Hello Blog #副标题
-date:       2017-02-06 				# 时间
+date:       2020-10-20 				# 时间
 author:     BY 						# 作者
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 生活
 ---
-```
 
 1. 结果链接 KITTI     result [KITTI](https://docs.google.com/spreadsheets/d/13EjrKI0qY7HKAAKl06CcC9-E0GzXBt-19c5Htp8y0Go/edit?usp=sharing),     Nuscenes reult [Nuscenes](https://docs.google.com/spreadsheets/d/1FrTqvdbo9OSf8xZ0juBbHDHBPM9GlguMFyvQqv0yIr0/edit?usp=sharing)
 2. 创建conda环境
